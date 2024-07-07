@@ -1,1 +1,4 @@
 este es js 1
+
+agregamos las peticiones
+agregamos un metodo
