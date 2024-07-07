@@ -1,2 +1,5 @@
 Esta es la version 1
 del bloc de notas 
+
+Se hizo una modificacion 
+ahora es la v2
